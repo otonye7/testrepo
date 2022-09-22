@@ -1,0 +1,36 @@
+.event-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+}
+
+.snapchat {
+    color: #BB66F1; 
+}
+
+.main-title-text {
+    text-align: right;
+    font-size: 45px;
+}
+
+.paragraph-text {
+    font: Helvetica;
+    color: #4F4F4F;
+    text-align: right;
+}
+
+.button-container {
+    width: 100%;
+    display: flex;
+    justify-content: right;
+}
+
+.button {
+    background-color: #BB66F1;
+    color: white;
+    border-radius: 5px;
+    width: 260px;
+    height: 40px;
+    cursor: pointer;
+}

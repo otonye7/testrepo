@@ -1,0 +1,38 @@
+.input-container {
+    width: 100%;
+}
+
+.input-image {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+}
+
+.input-form {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.add-button {
+    background-color: #BB66F1;
+    color: white;
+}
+
+.next-link {
+    width: 90%;
+    display: flex;
+    justify-content: right;
+    cursor: pointer;
+}
+
+.input-text-field {
+   width: 100%;
+}
+
+.image-button {
+    background-color: #BB66F1;
+    color: white;
+}
